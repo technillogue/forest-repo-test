@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c0ffe1855bb69f19afa32caa86e0bbabb18904cc7c5edbd48180846dae13e90e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple"
+            }
+        ]
+    },
+    "default": {
+        "forestbot": {
+            "git": "https://github.com/mobilecoinofficial/forest",
+            "ref": "pip"
+        }
+    },
+    "develop": {}
+}
